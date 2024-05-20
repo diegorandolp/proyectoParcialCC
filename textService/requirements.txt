@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy.orm
+.database
+requests
+openai
+dotenv
+google.generativeai

@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  apiaudio:
+    build: ./apiaudio
+    ports:
+      - "8003:8003"
+  apiimage:
+    build: ./apiimage
+    ports:
+      - "8002:8002"
+  apitext:
+    build: ./apitext
+    ports:
+      - "8001:8001"

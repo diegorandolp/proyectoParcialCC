@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pymongo
+requests
+Pillow
+google-generativeai
